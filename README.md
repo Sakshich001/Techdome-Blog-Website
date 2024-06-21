@@ -1,5 +1,5 @@
 
-# TechDome Blog Application
+# Techdome Blog Application
 
 
 ## Introduction
